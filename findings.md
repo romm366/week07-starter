@@ -5,12 +5,30 @@ Write this file manually yourselves after checking the original notes. Ideas may
 Data: [real anonymised team research / FICTIONAL PRACTICE]
 
 Repeat only for findings that actually exist; up to three is a target, not a quota.
-- Finding:
-- Supporting IDs:
-- Contrary IDs, or none collected:
+- Finding: Rushing can reduce ingredient checking, while reported checking priorities differ
+- Supporting IDs: ID9, ID10, ID11
+- Contrary IDs, or none collected:I10
 - Limits and alternative explanation:
-- Status: [supported within scope / needs revision / unverified / rejected]
+- Status: [ unverified ]
 - Human reviewer and exact comparison with original notes:
+
+Repeat only for findings that actually exist; up to three is a target, not a quota.
+- Finding: Sugar-related wording contributes to stated health judgments
+- Supporting IDs:ID10, ID11
+- Contrary IDs, or none collected: I9
+- Limits and alternative explanation:
+- Status: [unverified ]
+- Human reviewer and exact comparison with original notes:
+
+
+Repeat only for findings that actually exist; up to three is a target, not a quota.
+- Finding: Doubt appears around perceived inconsistencies and uncertain product knowledge
+- Supporting IDs: ID9, ID11
+- Contrary IDs, or none collected: ID10
+- Limits and alternative explanation:
+- Status: [unverified ]
+- Human reviewer and exact comparison with original notes:
+
 
 ## Say versus do
 Comparable evidence and IDs:
