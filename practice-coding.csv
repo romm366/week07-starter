@@ -1,0 +1,21 @@
+evidence_id,code,present,reason
+I1,access_constraint,1,FICTIONAL worked coding: meets inclusion rule
+I1,equipment_unavailable,0,FICTIONAL worked coding: no qualifying evidence in this excerpt
+I2,access_constraint,0,FICTIONAL worked coding: no qualifying evidence in this excerpt
+I2,equipment_unavailable,0,FICTIONAL worked coding: no qualifying evidence in this excerpt
+I3,access_constraint,1,FICTIONAL worked coding: meets inclusion rule
+I3,equipment_unavailable,0,FICTIONAL worked coding: no qualifying evidence in this excerpt
+I4,access_constraint,0,FICTIONAL worked coding: no qualifying evidence in this excerpt
+I4,equipment_unavailable,1,FICTIONAL worked coding: meets inclusion rule
+I5,access_constraint,0,FICTIONAL worked coding: no qualifying evidence in this excerpt
+I5,equipment_unavailable,0,FICTIONAL worked coding: no qualifying evidence in this excerpt
+I6,access_constraint,0,FICTIONAL worked coding: no qualifying evidence in this excerpt
+I6,equipment_unavailable,0,FICTIONAL worked coding: no qualifying evidence in this excerpt
+I7,access_constraint,0,FICTIONAL worked coding: no qualifying evidence in this excerpt
+I7,equipment_unavailable,0,FICTIONAL worked coding: no qualifying evidence in this excerpt
+I8,access_constraint,0,FICTIONAL worked coding: no qualifying evidence in this excerpt
+I8,equipment_unavailable,0,FICTIONAL worked coding: no qualifying evidence in this excerpt
+O1,access_constraint,0,FICTIONAL worked coding: no qualifying evidence in this excerpt
+O1,equipment_unavailable,1,FICTIONAL worked coding: meets inclusion rule
+O2,access_constraint,1,FICTIONAL worked coding: meets inclusion rule
+O2,equipment_unavailable,0,FICTIONAL worked coding: no qualifying evidence in this excerpt
